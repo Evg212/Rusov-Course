@@ -1,4 +1,5 @@
 123
 456 This is first file in this session.
+Commit test
 Changes/
 Add line
